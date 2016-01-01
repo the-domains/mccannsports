@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[McCannSports]]></title>
+        <description><![CDATA[McCannSports]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 22:28:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coming Soon</p>]]></description>
+            <link>undefined36aa84f2-84a1-489f-9f35-60c4ee0c230d/index.html</link>
+            <guid isPermaLink="false">36aa84f2-84a1-489f-9f35-60c4ee0c230d</guid>
+            <pubDate>Fri, 01 Jan 2016 22:28:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
