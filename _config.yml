@@ -1,5 +1,19 @@
+name: McCannSports
+favicon: null
+layout_spectrum: 0.72878
+typography_spectrum: 0.26414
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-33506355-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ffff00'
@@ -9,11 +23,6 @@ color:
     - '#8a8a00'
   brandStrength: 0.16554
   lightness: 0.341216
-  rhythmicContrast: 0.314189
   saturation: 0.650777
-cta: {}
-layout_spectrum: 0.05351
-name: McCannSports
-opengraph: {}
+  rhythmicContrast: 0.314189
 purpose: []
-typography_spectrum: 0.26414
