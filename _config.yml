@@ -2,12 +2,13 @@ name: McCannSports
 favicon: null
 layout_spectrum: 0.24609
 typography_spectrum: 0.26414
+title: 'McCannSports | Downtown Minneapolis Sports Massage '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-33506355-1
   facebook: null
   twitter: null
 opengraph:
