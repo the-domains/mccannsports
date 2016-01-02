@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T02:08:31.878Z'
-dateModified: '2016-01-02T02:08:09.716Z'
+datePublished: '2016-01-02T02:10:04.125Z'
+dateModified: '2016-01-02T02:10:00.889Z'
 title: Weekend Warriors
 author: []
+sourcePath: _posts/2016-01-02-weekend-warriors.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-weekend-warriors.md
-published: true
 url: weekend-warriors/index.html
 _type: Blurb
 
