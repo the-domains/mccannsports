@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T01:18:45.378Z'
-dateModified: '2016-01-02T01:18:43.433Z'
+datePublished: '2016-01-02T01:20:45.804Z'
+dateModified: '2016-01-02T01:20:44.020Z'
 title: Weekend Warriors
 author: []
 sourcePath: _posts/2016-01-02-so-you-like-to-get-after-it-on-the-weekends.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: so-you-like-to-get-after-it-on-the-weekends/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Weekend Warriors
