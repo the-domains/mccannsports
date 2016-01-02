@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[McCannSports]]></title>
         <description><![CDATA[McCannSports]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mccannsports.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 00:32:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 01:18:45 GMT</lastBuildDate>
+        <atom:link href="http://mccannsports.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weekend Warriors]]></title>
+            <description><![CDATA[<article><h1>Weekend Warriors</h1><p>Well you better have a good sports massage therapist!!</p></article>]]></description>
+            <link>http://mccannsports.com/so-you-like-to-get-after-it-on-the-weekends/index.html</link>
+            <guid isPermaLink="false">ce1547b8-8507-4690-97ad-e458516a6db3</guid>
+            <pubDate>Sat, 02 Jan 2016 01:18:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sports Massage Therapy]]></title>
             <description><![CDATA[<article><h1>Sports Massage Therapy</h1><p>McCannSports is owned and operated by Teddy McCann.  Teddy provides his professional sports massage therapy services at:</p></article>]]></description>
-            <link>undefinedsports-massage-therapy/index.html</link>
+            <link>http://mccannsports.com/sports-massage-therapy/index.html</link>
             <guid isPermaLink="false">858af5ab-a064-4afe-808c-31586c0d46b3</guid>
             <pubDate>Sat, 02 Jan 2016 00:32:31 GMT</pubDate>
         </item>
