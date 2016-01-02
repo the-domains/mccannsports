@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T01:16:09.879Z'
-dateModified: '2016-01-02T01:15:54.293Z'
-title: So you like to get after it on the weekends?
+datePublished: '2016-01-02T01:17:16.148Z'
+dateModified: '2016-01-02T01:17:14.277Z'
+title: Weekend Warriors
 author: []
 sourcePath: _posts/2016-01-02-so-you-like-to-get-after-it-on-the-weekends.md
 published: true
@@ -22,7 +22,9 @@ url: so-you-like-to-get-after-it-on-the-weekends/index.html
 _type: Blurb
 
 ---
-# So you like to get after it on the weekends?
+# Weekend Warriors
+
+So you like to get after it on the weekends?
 
 Well you better have a good sports massage therapist!!
 
