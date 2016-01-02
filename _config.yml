@@ -2,6 +2,7 @@ name: McCannSports
 favicon: null
 layout_spectrum: 0.74723
 typography_spectrum: 0.26414
+title: McCannSports
 cta:
   domain: null
   bucket: null
