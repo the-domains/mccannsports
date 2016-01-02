@@ -4,8 +4,15 @@
         <description><![CDATA[McCannSports]]></description>
         <link>http://mccannsports.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 01:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 01:30:45 GMT</lastBuildDate>
         <atom:link href="http://mccannsports.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weekend Warriors]]></title>
+            <description><![CDATA[<h1>Weekend Warriors</h1>]]></description>
+            <link>http://mccannsports.com/weekend-warriors/index.html</link>
+            <guid isPermaLink="false">5b9fca51-a7a6-4abc-abbc-dd27f19828dc</guid>
+            <pubDate>Sat, 02 Jan 2016 01:30:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sports Massage Therapy]]></title>
             <description><![CDATA[<article><h1>Sports Massage Therapy</h1><p>McCannSports is owned and operated by Teddy McCann.  Teddy provides his professional sports massage therapy services at:</p></article>]]></description>
