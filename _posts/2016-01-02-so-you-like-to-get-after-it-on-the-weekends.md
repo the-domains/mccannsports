@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T01:07:33.682Z'
-dateModified: '2016-01-02T01:07:31.315Z'
+datePublished: '2016-01-02T01:09:58.667Z'
+dateModified: '2016-01-02T01:09:51.907Z'
 title: So you like to get after it on the weekends?
 author: []
 sourcePath: _posts/2016-01-02-so-you-like-to-get-after-it-on-the-weekends.md
