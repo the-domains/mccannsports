@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T01:17:16.148Z'
-dateModified: '2016-01-02T01:17:14.277Z'
+datePublished: '2016-01-02T01:17:50.572Z'
+dateModified: '2016-01-02T01:17:45.946Z'
 title: Weekend Warriors
 author: []
 sourcePath: _posts/2016-01-02-so-you-like-to-get-after-it-on-the-weekends.md
