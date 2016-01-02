@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T01:21:56.416Z'
-dateModified: '2016-01-02T01:21:54.502Z'
+datePublished: '2016-01-02T01:23:28.168Z'
+dateModified: '2016-01-02T01:23:21.259Z'
 title: Weekend Warriors
 author: []
 sourcePath: _posts/2016-01-02-so-you-like-to-get-after-it-on-the-weekends.md
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: so-you-like-to-get-after-it-on-the-weekends/index.html
-_type: WebPage
+_type: Article
 
 ---
-# Weekend Warriors
+# [Weekend Warriors][0]
 
 So you like to get after it on the weekends?
 
@@ -37,3 +37,5 @@ Steps to better health and optimal performance
 * develop a customized treatment plan
 
 # Get Started!
+
+[0]: weekend-warriors
